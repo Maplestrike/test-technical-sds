@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 10px;
+}
+
+.form-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-item input {
+  width: 700px;
+}

@@ -1,0 +1,33 @@
+p {
+  margin: 0;
+}
+
+.user-detail {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  text-align: right;
+}
+
+.user {
+  background-color: gainsboro;
+  width: fit-content;
+  padding: 1vh;
+}
+
+.users-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1vw;
+}
+
+.button {
+  padding: 1vh;
+}
+
+.buttons {
+  display: flex;
+  gap: 1vw;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
